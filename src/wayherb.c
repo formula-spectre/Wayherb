@@ -9,6 +9,7 @@
 #include "util.h"
 #include "wayland.h"
 #include "config.h"
+#include <string.h>
 
 #define EXIT_ACTION 0
 #define EXIT_FAIL 1
